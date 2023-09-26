@@ -1,7 +1,7 @@
 # AfriQuest - Your Premier African Tours and Travel Website 🌍
 
 Welcome to AfriQuest, your gateway to unforgettable adventures across Africa. 🐾
-
+![afriQuestHome](https://github.com/DarboeDev/Setsi/assets/125799918/fac6fefa-c852-48b3-b34b-20a01d8c5b94)
 ## Table of Contents
 
 - [About AfriQuest](#about-afriquest)
@@ -15,7 +15,9 @@ Welcome to AfriQuest, your gateway to unforgettable adventures across Africa. �
 
 AfriQuest is your trusted partner for exploring the beauty, culture, and wildlife of Africa. Our mission is to provide you with exceptional travel experiences while promoting sustainable tourism. Discover the heart of Africa with us, where every journey tells a story.
 
-![AfriQuest Hero Image](/src/assets/about-hero.jpg)
+
+![afriQuestAbout](https://github.com/DarboeDev/Setsi/assets/125799918/ca87e450-e971-4304-832a-6361180e889a)
+
 
 ### Our History 📜
 
@@ -31,7 +33,8 @@ AfriQuest envisions a world where every traveler can explore Africa's unique des
 
 ## Services
 
-![Service Hero Image](/src/assets/service-hero.jpg)
+![download (1)](https://github.com/DarboeDev/Setsi/assets/125799918/9d10f8fd-0d07-4d25-9002-e0ea425ee93a)
+
 
 ### Service Categories 🌄
 
@@ -49,7 +52,6 @@ Our service listings provide detailed information about each adventure, includin
 
 ## Destinations
 
-![Popular Destinations](/src/assets/destination-hero.jpg)
 
 ### Popular Destinations 🌴
 
@@ -57,7 +59,9 @@ AfriQuest invites you to explore Africa's most sought-after destinations. From t
 
 ## Recent Trips
 
-![Recent Trips](/src/assets/recent-trips-hero.jpg)
+![recentTrips](https://github.com/DarboeDev/Setsi/assets/125799918/d10e801b-aab6-43b0-94bf-7eb0c441c920)
+
+
 
 ### Recent Trips 🌟
 
@@ -65,23 +69,18 @@ Join us on a journey through recent adventures and discover the incredible exper
 
 ## Contact Us
 
-![Contact Us](/src/assets/contact-hero.jpg)
+![download (3)](https://github.com/DarboeDev/Setsi/assets/125799918/5fdca554-fe4c-48f4-8f11-85b826206f06)
 
 ### Contact 📧
 
 Ready to start your adventure or have questions about our services? Contact us using the form below, and our team will be happy to assist you.
 
-[Contact Form](/contact)
-
 ## Frequently Asked Questions
 
-![FAQs](/src/assets/faq-hero.jpg)
+![download (2)](https://github.com/DarboeDev/Setsi/assets/125799918/6dd912bb-8940-4ece-9e68-3895c890239f)
 
 ### FAQs ❓
 
 Got questions? We've got answers! Check out our Frequently Asked Questions section to find information on booking, cancellation policies, age restrictions, and more.
-
-[FAQs](/faq)
-
 
 Thank you for choosing AfriQuest for your African adventure. We look forward to creating unforgettable memories with you! 🌟
